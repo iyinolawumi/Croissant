@@ -1,0 +1,39 @@
+h1{
+    display: block;
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
+
+.contact-link {
+    background-color: blueviolet;
+    display: flex;
+        text-align: center;
+        color: aqua;
+        justify-content: space-evenly;
+}
+.index-link {
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    color: aqua;
+    justify-content: space-evenly;
+}
+.photo-link {
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    color: aqua;
+    justify-content: space-evenly;
+    
+}
+.image {
+    margin: 30px auto;
+    display: block;
+    width: 1000px;
+}
